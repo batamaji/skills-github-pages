@@ -1,5 +1,5 @@
 ---
-Welcome to my blog!
+title: Welcome to my blog!
 ---
 I'm a Master's student in Informatics with a Bachelor's in Information Security.
 
